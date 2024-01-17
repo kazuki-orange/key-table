@@ -1,11 +1,11 @@
 {
     "key_0": {
         "name": "Fit",
-        "state": "normal"
+        "state": "down"
     },
     "key_1": {
         "name": "タント",
-        "state": "normal"
+        "state": "down"
     },
     "key_2": {
         "name": "Spacia Custom",
@@ -17,10 +17,14 @@
     },
     "key_4": {
         "name": "Alphard",
-        "state": "normal"
+        "state": "down"
     },
     "key_5": {
         "name": "セルボ",
+        "state": "down"
+    },
+    "key_6": {
+        "name": "Spacia",
         "state": "normal"
     }
 }
