@@ -4,22 +4,18 @@
         "state": "down"
     },
     "key_1": {
-        "name": "タント",
+        "name": "Alphard",
         "state": "down"
     },
     "key_2": {
         "name": "Spacia Custom",
-        "state": "down"
+        "state": "normal"
     },
     "key_3": {
-        "name": "Lexus",
-        "state": "down"
+        "name": "タント",
+        "state": "normal"
     },
     "key_4": {
-        "name": "Alphard",
-        "state": "down"
-    },
-    "key_5": {
         "name": "セルボ",
         "state": "down"
     }
