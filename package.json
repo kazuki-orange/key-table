@@ -1,0 +1,15 @@
+{
+  "name": "key-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "update-json.js",
+  "scripts": {
+    "build": "netlify-lambda build resources/",
+    "serve": "netlify-lambda serve resources/"
+  },
+  "author": "Kazuki Ohashi",
+  "license": "ISC",
+  "dependencies": {
+    "netlify-lambda": "^2.0.16"
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "key_0": {
+        "name": "タント",
+        "state": "normal"
+    },
+    "key_1": {
+        "name": "Spacia Custom",
+        "state": "down"
+    },
+    "key_2": {
+        "name": "Lexus",
+        "state": "down"
+    },
+    "key_3": {
+        "name": "Alphard",
+        "state": "normal"
+    },
+    "key_4": {
+        "name": "セルボ",
+        "state": "normal"
+    },
+    "key_5": {
+        "name": "Fit",
+        "state": "normal"
+    }
+}
