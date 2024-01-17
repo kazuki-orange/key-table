@@ -4,7 +4,7 @@
   "description": "",
   "main": "update-json.js",
   "scripts": {
-    "build": "netlify-lambda build --openssl-legacy-provider resources/",
+    "build": "netlify-lambda build resources/",
     "serve": "netlify-lambda serve --openssl-legacy-provider resources/"
   },
   "author": "Kazuki Ohashi",
