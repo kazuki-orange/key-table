@@ -2,3 +2,4 @@
 .netlify
 api
 node_modules
+netlify.toml
