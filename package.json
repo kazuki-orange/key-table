@@ -5,7 +5,8 @@
   "main": "update-json.js",
   "scripts": {
     "build": "netlify-lambda build resources/",
-    "serve": "netlify-lambda serve --openssl-legacy-provider resources/"
+    "serve": "netlify-lambda serve resources/",
+    "develop": "NODE_OPTIONS='--openssl-legacy-provider' gatsby develop"
   },
   "author": "Kazuki Ohashi",
   "license": "ISC",
